@@ -1,0 +1,9 @@
+name: twitter-conversation-crawler
+version: 0.1.0
+
+authors:
+  - Kevin Elliott <kevin@welikeinc.com>
+
+crystal: 0.24.1
+
+license: MIT
