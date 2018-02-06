@@ -9,7 +9,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   twitter-conversation-crawler:
-    github: kevinelliott/twitter-conversation-crawler
+    github: kevinelliott/crystal-twitter-conversation-crawler
 ```
 
 ## Usage
